@@ -1,0 +1,29 @@
+{
+  "Mostafa_Admin@gmail.com": {
+    "email": "Mostafa_Admin@gmail.com",
+    "password_hash": "b06ac2372fe7222f427760e7903240fa8391ec7b731aa1fbcf7439ca7cbeb0ba",
+    "name": "Mostafa",
+    "avatar_color": "#007bff",
+    "avatar_path": "",
+    "is_admin": true,
+    "bookmarks": [],
+    "history": [],
+    "settings": {
+      "theme": "Dark Mode",
+      "font": "Consolas",
+      "size": 12,
+      "custom_shortcuts": {
+        "New Tab": "Ctrl+T",
+        "Reload": "Ctrl+R",
+        "Close Tab": "Ctrl+W",
+        "Focus URL": "Ctrl+L",
+        "Go Back": "Alt+Left",
+        "Go Forward": "Alt+Right",
+        "Custom URL": "Ctrl+G"
+      },
+      "custom_url": "https://www.google.com",
+      "auto_save_passwords": true,
+      "auto_fill_passwords": true
+    }
+  }
+}
